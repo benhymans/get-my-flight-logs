@@ -1,0 +1,3 @@
+[paths]
+source = "/sdcard/DJI/dji.go.v4/FlightRecord"
+destination = "./flightlogs"
